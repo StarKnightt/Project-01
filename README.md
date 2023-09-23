@@ -33,4 +33,4 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/YourUsername/food-website-html-css.git
+   git clone https://github.com/StarKnightt/Project-01.git
