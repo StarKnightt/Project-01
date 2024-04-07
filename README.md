@@ -21,6 +21,7 @@ This project is a simple food website designed to demonstrate the power of HTML 
 - A contact form for user inquiries.
 
 The main goal of this project is to serve as a learning resource for web developers who want to improve their HTML and CSS skills. You are free to use, modify, and customize the code for your own projects.
+You can customize it.
 
 ## Demo
 
